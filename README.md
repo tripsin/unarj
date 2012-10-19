@@ -1,8 +1,6 @@
-
-   README.TXT                                                 June 2002
-
-
-   This archive contains UNARJ version 2.65.
+UNARJ version 2.65. 
+===================
+                                                      June 2002
 
    This software as originally released by the author comes in an ARJ
    self-extracting archive with an ARJ-SECURITY envelope to prevent
@@ -32,4 +30,3 @@
           TURBOC.CFG     - Borland C++ 3 configuration file
           TECHNOTE.TXT   - technical information about ARJ
 
-   end of readme.doc
